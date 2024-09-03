@@ -1,1 +1,1 @@
-# BancoInformatica
+//code creator: Samuel Asaph
